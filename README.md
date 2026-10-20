@@ -33,6 +33,8 @@
 
 Steam Clips Exporter is a lightweight Windows application that watches your Steam Game Recording folder and automatically saves new clips as easy to watch and share MP4 files.
 
+<img src="Assets/Preview Image.png" alt="Preview Image" width="1000" />
+
 ## ✨ Features
 
 - 🎬 **Automatic MP4 exporting** — Detects and exports new Steam clips for you.
