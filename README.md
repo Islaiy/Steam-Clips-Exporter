@@ -34,7 +34,7 @@ Steam Clips Exporter is a lightweight Windows application that watches your Stea
 - 🗑️ **Optional storage cleanup** — Deletes individual original clips after successful exports when enabled.
 - 🖥️ **Background monitoring** — Minimize to the system tray and start with Windows.
 - ⚙️ **Flexible settings** — Choose your folders and how frequently new clips are checked.
-- 📋 **Activity Log** — See what has been exported, skipped, deleted and every action the application does will be logged.
+- 📋 **Activity Log** — Track exported/deleted/skipped clips and application activity.
 
 ## 🚀 Getting started
 
