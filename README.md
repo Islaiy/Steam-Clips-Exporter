@@ -1,9 +1,16 @@
 <h1 align="center">Steam Clips Exporter</h1>
 
 <p align="center">
-  <strong>Automatically export your Steam Game Recording clips to MP4.</strong><br>
-  Simple setup. Original quality. Organized clips.
+  <img src="app_logo.png" alt="Steam Clips Exporter logo" width="130" />
 </p>
+
+<p align="center">
+  <strong>Automatically export your Steam Game Recording clips to MP4.</strong><br>
+  <p align="center">
+  <strong>Simple setup. Original quality. Organized clips.</strong><br>
+
+</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Windows-0078D4" alt="Windows" />
@@ -17,7 +24,7 @@
 
 ---
 
-Steam Clips Exporter is a lightweight Windows app that watches your Steam Game Recording folder and automatically saves new clips as easy to watch and share MP4 files.
+Steam Clips Exporter is a lightweight Windows application that watches your Steam Game Recording folder and automatically saves new clips as easy to watch and share MP4 files.
 
 ## ✨ Features
 
@@ -27,7 +34,7 @@ Steam Clips Exporter is a lightweight Windows app that watches your Steam Game R
 - 🗑️ **Optional storage cleanup** — Deletes individual original clips after successful exports when enabled.
 - 🖥️ **Background monitoring** — Minimize to the system tray and start with Windows.
 - ⚙️ **Flexible settings** — Choose your folders and how frequently new clips are checked.
-- 📋 **Activity Log** — See what has been exported, skipped, or deleted or any other activity that is performed
+- 📋 **Activity Log** — See what has been exported, skipped, deleted and every action the application does will be logged.
 
 ## 🚀 Getting started
 
