@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="Steam Clips Exporter.png" alt="Steam Clips Exporter logo" width="130" />
+  <img src="assets/Steam Clips Exporter Logo.png" alt="Steam Clips Exporter logo" width="280" />
 </p>
 
 
