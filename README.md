@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/app_logo.png" alt="Steam Clips Exporter logo" width="130" />
-</p>
-
 <h1 align="center">Steam Clips Exporter</h1>
 
 <p align="center">
