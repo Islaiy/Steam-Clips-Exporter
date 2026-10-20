@@ -1,8 +1,15 @@
 <h1 align="center">Steam Clips Exporter</h1>
 
+
+
 <p align="center">
   <img src="Steam Clips Exporter.png" alt="Steam Clips Exporter logo" width="130" />
 </p>
+
+
+
+<h2 align="center">Made for players who want their Steam clips saved automatically, without the hassle. </h2>
+
 
 <p align="center">
   <strong>Automatically export your Steam Game Recording clips to MP4.</strong><br>
@@ -70,8 +77,5 @@ With that option disabled, MP4 files are saved directly inside your selected out
 
 ---
 
-<p align="center">
-  Made for players who want their Steam clips saved automatically, without the hassle.
-</p>
 
 <sub>Steam Clips Exporter is an independent project and is not affiliated with or endorsed by Valve or Steam. Bundled third-party components are subject to their respective licences.</sub>
