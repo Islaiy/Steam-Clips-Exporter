@@ -35,7 +35,7 @@ Steam Clips Exporter is a lightweight Windows app that watches your Steam Game R
 
 ## 🚀 Getting started
 
-1. Go to the **[Releases page](https://github.com/Islaiy/Steam-Clips-Exporter/releases)** and download `SteamClipsExporter.rar` from the latest release.
+1. Go to the **[Releases page](https://github.com/Islaiy/Steam-Clips-Exporter/releases)** and download `Steam.Clip.Auto.Exporter.rar` from the latest release.
 2. Extract the .rar file
 3. Run Steam Clips Exporter.
 4. Under **Steam clips folder**, select the recording location configured in **Steam → Settings → Game Recording**. The app automatically searches its subfolders for `clips`.
