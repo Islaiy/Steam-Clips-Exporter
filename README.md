@@ -36,7 +36,8 @@ Steam Clips Exporter is a lightweight Windows application that watches your Stea
  <h2>V1</h2>
 <img src="Assets/Preview Image.png" alt="Preview Image" width="1000" />
 
-
+<h2>V2</h2>
+<img src="Assets/Preview Image 2.png" alt="Preview Image 2" width="1000" />
 
 
 ## ✨ Features
